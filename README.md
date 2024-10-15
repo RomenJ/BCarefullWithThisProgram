@@ -34,5 +34,5 @@ La interfaz está diseñada para ser sencilla y directa, facilitando a los usuar
 El área de resultados proporciona un feedback inmediato sobre la ejecución de la consulta y la conectividad del servidor, lo que es crucial para tareas de diagnóstico y validación en entornos de desarrollo y producción.
 
 Conclusión
-En resumen, la "SQL Query App" es una herramienta útil y eficiente para cualquier persona que necesite interactuar con bases de datos MySQL. Su interfaz gráfica facilita la ejecución de consultas y la verificación de la conectividad, convirtiéndola en una solución práctica tanto para desarrolladores como para administradores de bases de datos. El desarrollador del código no se responsabiliza de acciones perjudiciales o benifiosas realizadas por terceros en el empleo de este software.
+En resumen, la "SQL Query App" es una herramienta útil y eficiente para cualquier persona que necesite interactuar con bases de datos MySQL. Su interfaz gráfica facilita la ejecución de consultas y la verificación de la conectividad, convirtiéndola en una solución práctica tanto para desarrolladores como para administradores de bases de datos.<b> El desarrollador del código no se responsabiliza de las posibles acciones perjudiciales o benificiosas realizadas por terceros en el empleo de este software<b>.
 
